@@ -6,6 +6,69 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch hollowButterfly",
+            "request": "launch",
+            "mainClass": "hollowButterfly",
+            "projectName": "java-programming_ce356609"
+        },
+        {
+            "type": "java",
+            "name": "Launch hollowRhombus",
+            "request": "launch",
+            "mainClass": "hollowRhombus",
+            "projectName": "java-programming_ce356609"
+        },
+        {
+            "type": "java",
+            "name": "Launch NoHalfPyramid",
+            "request": "launch",
+            "mainClass": "NoHalfPyramid",
+            "projectName": "java-programming_ce356609"
+        },
+        {
+            "type": "java",
+            "name": "Launch flipPyrammidWithNo",
+            "request": "launch",
+            "mainClass": "flipPyrammidWithNo",
+            "projectName": "java-programming_ce356609"
+        },
+        {
+            "type": "java",
+            "name": "Launch diamondPattern",
+            "request": "launch",
+            "mainClass": "diamondPattern",
+            "projectName": "java-programming_ce356609"
+        },
+        {
+            "type": "java",
+            "name": "Launch pallindromeTriangle",
+            "request": "launch",
+            "mainClass": "pallindromeTriangle",
+            "projectName": "java-programming_ce356609"
+        },
+        {
+            "type": "java",
+            "name": "Launch invertedHalfPyramid",
+            "request": "launch",
+            "mainClass": "invertedHalfPyramid",
+            "projectName": "java-programming_ce356609"
+        },
+        {
+            "type": "java",
+            "name": "Launch butterflyPattern",
+            "request": "launch",
+            "mainClass": "butterflyPattern",
+            "projectName": "java-programming_ce356609"
+        },
+        {
+            "type": "java",
+            "request": "attach",
+            "name": "Java",
+            "port": 5005,
+            "sourceRoots": []
+        },
+        {
+            "type": "java",
             "name": "Launch nuPyrammid",
             "request": "launch",
             "mainClass": "nuPyrammid",
