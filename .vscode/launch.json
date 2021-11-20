@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch functionOfTable",
+            "request": "launch",
+            "mainClass": "functionOfTable",
+            "projectName": "java-programming_ce356609"
+        },
+        {
+            "type": "java",
+            "name": "Launch fuctionForEvenNo",
+            "request": "launch",
+            "mainClass": "fuctionForEvenNo",
+            "projectName": "java-programming_ce356609"
+        },
+        {
+            "type": "java",
+            "name": "Launch functionToFindPrime",
+            "request": "launch",
+            "mainClass": "functionToFindPrime",
+            "projectName": "java-programming_ce356609"
+        },
+        {
+            "type": "java",
+            "name": "Launch printFactorial",
+            "request": "launch",
+            "mainClass": "printFactorial",
+            "projectName": "java-programming_ce356609"
+        },
+        {
+            "type": "java",
+            "name": "Launch functionForMultiplyTwoNo",
+            "request": "launch",
+            "mainClass": "functionForMultiplyTwoNo",
+            "projectName": "java-programming_ce356609"
+        },
+        {
+            "type": "java",
+            "name": "Launch functionForAddingTwoNo",
+            "request": "launch",
+            "mainClass": "functionForAddingTwoNo",
+            "projectName": "java-programming_ce356609"
+        },
+        {
+            "type": "java",
             "name": "Launch hollowButterfly",
             "request": "launch",
             "mainClass": "hollowButterfly",
