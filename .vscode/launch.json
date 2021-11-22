@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch functionForVoteAge",
+            "request": "launch",
+            "mainClass": "functionForVoteAge",
+            "projectName": "java-programming_ce356609"
+        },
+        {
+            "type": "java",
+            "name": "Launch functionForCircumferenceOfTriangle",
+            "request": "launch",
+            "mainClass": "functionForCircumferenceOfTriangle",
+            "projectName": "java-programming_ce356609"
+        },
+        {
+            "type": "java",
+            "name": "Launch functionForBiggerNo",
+            "request": "launch",
+            "mainClass": "functionForBiggerNo",
+            "projectName": "java-programming_ce356609"
+        },
+        {
+            "type": "java",
+            "name": "Launch functionForAddingOddNo",
+            "request": "launch",
+            "mainClass": "functionForAddingOddNo",
+            "projectName": "java-programming_ce356609"
+        },
+        {
+            "type": "java",
+            "name": "Launch averageFunction",
+            "request": "launch",
+            "mainClass": "averageFunction",
+            "projectName": "java-programming_ce356609"
+        },
+        {
+            "type": "java",
             "name": "Launch functionOfTable",
             "request": "launch",
             "mainClass": "functionOfTable",
