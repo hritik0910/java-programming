@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch functionGcd",
+            "request": "launch",
+            "mainClass": "functionGcd",
+            "projectName": "java-programming_ce356609"
+        },
+        {
+            "type": "java",
+            "name": "Launch FunctionForPowerQuestion",
+            "request": "launch",
+            "mainClass": "FunctionForPowerQuestion",
+            "projectName": "java-programming_ce356609"
+        },
+        {
+            "type": "java",
+            "name": "Launch count",
+            "request": "launch",
+            "mainClass": "count",
+            "projectName": "java-programming_ce356609"
+        },
+        {
+            "type": "java",
             "name": "Launch functionForVoteAge",
             "request": "launch",
             "mainClass": "functionForVoteAge",
