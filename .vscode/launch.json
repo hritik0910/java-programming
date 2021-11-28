@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch arraySorting",
+            "request": "launch",
+            "mainClass": "arraySorting",
+            "projectName": "java-programming_ce356609"
+        },
+        {
+            "type": "java",
+            "name": "Launch jingalala",
+            "request": "launch",
+            "mainClass": "jingalala",
+            "projectName": "java-programming_ce356609"
+        },
+        {
+            "type": "java",
+            "name": "Launch arrayMaxMin",
+            "request": "launch",
+            "mainClass": "arrayMaxMin",
+            "projectName": "java-programming_ce356609"
+        },
+        {
+            "type": "java",
+            "name": "Launch arrayAsName",
+            "request": "launch",
+            "mainClass": "arrayAsName",
+            "projectName": "java-programming_ce356609"
+        },
+        {
+            "type": "java",
+            "name": "Launch fibonacci",
+            "request": "launch",
+            "mainClass": "fibonacci",
+            "projectName": "java-programming_ce356609"
+        },
+        {
+            "type": "java",
+            "name": "Launch infiniteLoop",
+            "request": "launch",
+            "mainClass": "infiniteLoop",
+            "projectName": "java-programming_ce356609"
+        },
+        {
+            "type": "java",
+            "name": "Launch pallindrome",
+            "request": "launch",
+            "mainClass": "pallindrome",
+            "projectName": "java-programming_ce356609"
+        },
+        {
+            "type": "java",
             "name": "Launch functionGcd",
             "request": "launch",
             "mainClass": "functionGcd",
