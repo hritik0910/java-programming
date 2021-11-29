@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch twoDArrayAndFindNo",
+            "request": "launch",
+            "mainClass": "twoDArrayAndFindNo",
+            "projectName": "java-programming_ce356609"
+        },
+        {
+            "type": "java",
+            "name": "Launch twoDArray",
+            "request": "launch",
+            "mainClass": "twoDArray",
+            "projectName": "java-programming_ce356609"
+        },
+        {
+            "type": "java",
             "name": "Launch arraySorting",
             "request": "launch",
             "mainClass": "arraySorting",
