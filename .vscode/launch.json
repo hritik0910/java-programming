@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch transposeOfMatrix",
+            "request": "launch",
+            "mainClass": "transposeOfMatrix",
+            "projectName": "java-programming_ce356609"
+        },
+        {
+            "type": "java",
             "name": "Launch twoDArrayAndFindNo",
             "request": "launch",
             "mainClass": "twoDArrayAndFindNo",
