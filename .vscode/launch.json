@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch maxMinInArray",
+            "request": "launch",
+            "mainClass": "maxMinInArray",
+            "projectName": "java-programming_ce356609"
+        },
+        {
+            "type": "java",
+            "name": "Launch printingNamesInArrays",
+            "request": "launch",
+            "mainClass": "printingNamesInArrays",
+            "projectName": "java-programming_ce356609"
+        },
+        {
+            "type": "java",
+            "name": "Launch findANumberInArray",
+            "request": "launch",
+            "mainClass": "findANumberInArray",
+            "projectName": "java-programming_ce356609"
+        },
+        {
+            "type": "java",
+            "name": "Launch arrays",
+            "request": "launch",
+            "mainClass": "arrays",
+            "projectName": "java-programming_ce356609"
+        },
+        {
+            "type": "java",
+            "name": "Launch pascalTiangle",
+            "request": "launch",
+            "mainClass": "pascalTiangle",
+            "projectName": "java-programming_ce356609"
+        },
+        {
+            "type": "java",
             "name": "Launch transposeOfMatrix",
             "request": "launch",
             "mainClass": "transposeOfMatrix",
