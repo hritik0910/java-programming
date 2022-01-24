@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch spiralOrderMatrix",
+            "request": "launch",
+            "mainClass": "spiralOrderMatrix",
+            "projectName": "java-programming_ce356609"
+        },
+        {
+            "type": "java",
+            "name": "Launch findANumberInTwoDArray",
+            "request": "launch",
+            "mainClass": "findANumberInTwoDArray",
+            "projectName": "java-programming_ce356609"
+        },
+        {
+            "type": "java",
+            "name": "Launch twoDArrayTakingInputAndGivingOutput",
+            "request": "launch",
+            "mainClass": "twoDArrayTakingInputAndGivingOutput",
+            "projectName": "java-programming_ce356609"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayInAscendingOrDesending",
+            "request": "launch",
+            "mainClass": "ArrayInAscendingOrDesending",
+            "projectName": "java-programming_ce356609"
+        },
+        {
+            "type": "java",
             "name": "Launch maxMinInArray",
             "request": "launch",
             "mainClass": "maxMinInArray",
