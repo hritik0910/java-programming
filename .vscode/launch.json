@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch findingFourInAdigits",
+            "request": "launch",
+            "mainClass": "findingFourInAdigits",
+            "projectName": "java-programming_ce356609"
+        },
+        {
+            "type": "java",
+            "name": "Launch name",
+            "request": "launch",
+            "mainClass": "name",
+            "projectName": "java-programming_ce356609"
+        },
+        {
+            "type": "java",
             "name": "Launch spiralOrderMatrix",
             "request": "launch",
             "mainClass": "spiralOrderMatrix",
