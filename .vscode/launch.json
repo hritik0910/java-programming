@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch makingUserNameUsingEmailId",
+            "request": "launch",
+            "mainClass": "makingUserNameUsingEmailId",
+            "projectName": "java-programming_ce356609"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReplacingEWithIStrings",
+            "request": "launch",
+            "mainClass": "ReplacingEWithIStrings",
+            "projectName": "java-programming_ce356609"
+        },
+        {
+            "type": "java",
+            "name": "Launch arrayMakingOfNamesAndFindingTheCumilativeLength",
+            "request": "launch",
+            "mainClass": "arrayMakingOfNamesAndFindingTheCumilativeLength",
+            "projectName": "java-programming_ce356609"
+        },
+        {
+            "type": "java",
             "name": "Launch findingFourInAdigits",
             "request": "launch",
             "mainClass": "findingFourInAdigits",
