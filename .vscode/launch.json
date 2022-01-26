@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch reverseAString",
+            "request": "launch",
+            "mainClass": "reverseAString",
+            "projectName": "java-programming_ce356609"
+        },
+        {
+            "type": "java",
             "name": "Launch makingUserNameUsingEmailId",
             "request": "launch",
             "mainClass": "makingUserNameUsingEmailId",
