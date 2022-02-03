@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch pallindromeNumber",
+            "request": "launch",
+            "mainClass": "pallindromeNumber",
+            "projectName": "java-programming_ce356609"
+        },
+        {
+            "type": "java",
+            "name": "Launch NoOfTrailingZeroInFactorial",
+            "request": "launch",
+            "mainClass": "NoOfTrailingZeroInFactorial",
+            "projectName": "java-programming_ce356609"
+        },
+        {
+            "type": "java",
+            "name": "Launch no_ofOneInABit",
+            "request": "launch",
+            "mainClass": "no_ofOneInABit",
+            "projectName": "java-programming_ce356609"
+        },
+        {
+            "type": "java",
             "name": "Launch reverseAString",
             "request": "launch",
             "mainClass": "reverseAString",
