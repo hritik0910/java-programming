@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch sortingArrayUsingSelectionSort",
+            "request": "launch",
+            "mainClass": "sortingArrayUsingSelectionSort",
+            "projectName": "java-programming_ce356609"
+        },
+        {
+            "type": "java",
+            "name": "Launch sortingUsingSelectionSort",
+            "request": "launch",
+            "mainClass": "sortingUsingSelectionSort",
+            "projectName": "java-programming_ce356609"
+        },
+        {
+            "type": "java",
+            "name": "Launch sortingUsingBubbleSort",
+            "request": "launch",
+            "mainClass": "sortingUsingBubbleSort",
+            "projectName": "java-programming_ce356609"
+        },
+        {
+            "type": "java",
             "name": "Launch pallindromeNumber",
             "request": "launch",
             "mainClass": "pallindromeNumber",
