@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch inputString",
+            "request": "launch",
+            "mainClass": "inputString",
+            "projectName": "java-programming_ce356609"
+        },
+        {
+            "type": "java",
+            "name": "Launch overloading",
+            "request": "launch",
+            "mainClass": "overloading",
+            "projectName": "java-programming_ce356609"
+        },
+        {
+            "type": "java",
+            "name": "Launch parsing",
+            "request": "launch",
+            "mainClass": "parsing",
+            "projectName": "java-programming_ce356609"
+        },
+        {
+            "type": "java",
+            "name": "Launch primitiveType",
+            "request": "launch",
+            "mainClass": "primitiveType",
+            "projectName": "java-programming_ce356609"
+        },
+        {
+            "type": "java",
             "name": "Launch sortingArrayUsingSelectionSort",
             "request": "launch",
             "mainClass": "sortingArrayUsingSelectionSort",
